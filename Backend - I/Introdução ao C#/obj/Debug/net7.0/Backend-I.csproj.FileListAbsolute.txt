@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\bin\Debug\net7.0\Backend-I.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\bin\Debug\net7.0\Backend-I.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\bin\Debug\net7.0\Backend-I.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\bin\Debug\net7.0\Backend-I.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\bin\Debug\net7.0\Backend-I.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\refint\Backend-I.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\Backend-I.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend-I\obj\Debug\net7.0\ref\Backend-I.dll
