@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\bin\Debug\net7.0\Projeto Console - Média Aritmética.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\bin\Debug\net7.0\Projeto Console - Média Aritmética.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\bin\Debug\net7.0\Projeto Console - Média Aritmética.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\bin\Debug\net7.0\Projeto Console - Média Aritmética.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\bin\Debug\net7.0\Projeto Console - Média Aritmética.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\refint\Projeto Console - Média Aritmética.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\Projeto Console - Média Aritmética.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Média Aritmética\obj\Debug\net7.0\ref\Projeto Console - Média Aritmética.dll

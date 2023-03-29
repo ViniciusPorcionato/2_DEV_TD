@@ -1,0 +1,30 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\bin\Debug\net7.0\Calculadora IMC.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\bin\Debug\net7.0\Calculadora IMC.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\bin\Debug\net7.0\Calculadora IMC.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\bin\Debug\net7.0\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\bin\Debug\net7.0\Calculadora IMC.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\refint\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\Calculadora IMC.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora IMC\obj\Debug\net7.0\ref\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\bin\Debug\net7.0\Calculadora IMC.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\bin\Debug\net7.0\Calculadora IMC.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\bin\Debug\net7.0\Calculadora IMC.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\bin\Debug\net7.0\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\bin\Debug\net7.0\Calculadora IMC.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\refint\Calculadora IMC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\Calculadora IMC.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto-IMC\obj\Debug\net7.0\ref\Calculadora IMC.dll

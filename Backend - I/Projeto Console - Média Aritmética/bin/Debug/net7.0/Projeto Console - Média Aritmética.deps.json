@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projeto Console - Média Aritmética/1.0.0": {
+        "runtime": {
+          "Projeto Console - Média Aritmética.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto Console - Média Aritmética/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

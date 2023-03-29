@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\bin\Debug\net7.0\Projeto Console - Calcular idade 1.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\bin\Debug\net7.0\Projeto Console - Calcular idade 1.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\bin\Debug\net7.0\Projeto Console - Calcular idade 1.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\bin\Debug\net7.0\Projeto Console - Calcular idade 1.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\bin\Debug\net7.0\Projeto Console - Calcular idade 1.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\refint\Projeto Console - Calcular idade 1.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\Projeto Console - Calcular idade 1.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Console - Calcular idade 1\obj\Debug\net7.0\ref\Projeto Console - Calcular idade 1.dll
