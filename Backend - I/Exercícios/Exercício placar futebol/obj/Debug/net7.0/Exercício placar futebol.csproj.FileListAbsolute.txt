@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\bin\Debug\net7.0\Exercício placar futebol.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\bin\Debug\net7.0\Exercício placar futebol.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\bin\Debug\net7.0\Exercício placar futebol.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\bin\Debug\net7.0\Exercício placar futebol.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\bin\Debug\net7.0\Exercício placar futebol.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\refint\Exercício placar futebol.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\Exercício placar futebol.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício placar futebol\obj\Debug\net7.0\ref\Exercício placar futebol.dll

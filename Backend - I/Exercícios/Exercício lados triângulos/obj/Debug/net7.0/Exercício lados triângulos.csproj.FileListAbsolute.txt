@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\bin\Debug\net7.0\Exercício lados triângulos.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\bin\Debug\net7.0\Exercício lados triângulos.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\bin\Debug\net7.0\Exercício lados triângulos.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\bin\Debug\net7.0\Exercício lados triângulos.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\bin\Debug\net7.0\Exercício lados triângulos.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\refint\Exercício lados triângulos.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\Exercício lados triângulos.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício lados triângulos\obj\Debug\net7.0\ref\Exercício lados triângulos.dll

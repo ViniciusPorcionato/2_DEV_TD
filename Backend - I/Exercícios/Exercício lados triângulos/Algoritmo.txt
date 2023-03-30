@@ -1,0 +1,12 @@
+Exercício triângulo
+
+Informar lado1
+Informar lado2
+Informar lado3
+Se lado1, lado2 e lado3 for igual =  Triângulo    Equilátero
+Se lado1 for igual lado2 = Triângulo    Isóscele
+Se lado1 for igual lado3 = Triângulo    Isóscele
+Se lado2 for igual lado3 = Triângulo    Isóscele
+Se lado1 != lado2 != lado3 = Triângulo    Escaleno
+
+

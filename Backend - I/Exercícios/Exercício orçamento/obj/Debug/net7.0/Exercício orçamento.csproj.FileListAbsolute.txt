@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\bin\Debug\net7.0\Exercício orçamento.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\bin\Debug\net7.0\Exercício orçamento.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\bin\Debug\net7.0\Exercício orçamento.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\bin\Debug\net7.0\Exercício orçamento.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\bin\Debug\net7.0\Exercício orçamento.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\refint\Exercício orçamento.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\Exercício orçamento.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício orçamento\obj\Debug\net7.0\ref\Exercício orçamento.dll

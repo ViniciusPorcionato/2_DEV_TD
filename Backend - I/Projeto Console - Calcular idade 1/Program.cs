@@ -10,12 +10,12 @@ Console.WriteLine($"Informe seu nome : ");
 string nome = Console.ReadLine();
 
 Console.WriteLine($"Idade em anos");
-int idadeAnos = int.Parse(Console.ReadLine());
+int idadeAnos = int.Parse(Console.ReadLine()!);
 
 
 
 int idadeMeses = idadeAnos * 12;
-int idadeDias = idadeMeses * 30;
+int idadeDias = idadeAnos * 365;
 int idadeHoras = idadeDias * 24;
 int idadeMinutos = idadeHoras * 60;
 

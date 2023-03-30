@@ -3,11 +3,11 @@
 
 // nome
 Console.WriteLine($"Informe seu nome");
-string nome = Console.ReadLine();
+string nome = Console.ReadLine()!;
 
 
 Console.WriteLine($"Ano de nascimento");
-int anoNascimento = int.Parse(Console.ReadLine());
+int anoNascimento = int.Parse(Console.ReadLine()!);
 
 
 int anos = DateTime.Now.Year - anoNascimento;

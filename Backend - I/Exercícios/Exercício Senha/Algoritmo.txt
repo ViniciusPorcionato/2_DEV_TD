@@ -1,0 +1,7 @@
+Exercício senha
+
+Informar senha
+senha correta = 1234
+senha = senha digitada
+informar senha correta se for =  senha = 1234
+informar senha incorreta se for = senha != 1234

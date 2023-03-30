@@ -1,0 +1,7 @@
+Placar de futebol
+
+Informar o tanto de gols do time 1
+Informar o tanto de gols do time 2
+Se o gols do time 1 for > os gols do time 2 = Vitória do time 1 
+Se o gols do time 2 for > os gols do time 1 = Vitória do time 2 
+Se o gols do time 1 for = os gols do time 2 = Empate 

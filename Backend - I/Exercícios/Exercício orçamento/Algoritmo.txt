@@ -1,0 +1,6 @@
+Exercício Orçamento 
+
+1.Informar salário
+2. Informar gasto
+3. Se salário for > que gasto = Gastos dentro do orçamento
+4. Se gastos for > que salário = Orçamento estourado

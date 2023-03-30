@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\bin\Debug\net7.0\Exercício Senha.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\bin\Debug\net7.0\Exercício Senha.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\bin\Debug\net7.0\Exercício Senha.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\bin\Debug\net7.0\Exercício Senha.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\bin\Debug\net7.0\Exercício Senha.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\refint\Exercício Senha.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\Exercício Senha.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios\Exercício Senha\obj\Debug\net7.0\ref\Exercício Senha.dll
