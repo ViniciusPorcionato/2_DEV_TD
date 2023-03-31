@@ -1,0 +1,11 @@
+Exercício média
+
+Informar a frequencia do aluno
+Se a frequencia for < que 75%, informar que o aluno está reprovado, caso contrário mostrar Aprovado
+
+Informar nota 1
+Informar nota 2
+Informar nota 3
+Calcular a média
+Informar se a média é maior ou igual que 7, caso seja informar aprovado, se não informar reprovado.
+
