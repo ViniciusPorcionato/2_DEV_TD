@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\bin\Debug\net7.0\Exercício Crime.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\bin\Debug\net7.0\Exercício Crime.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\bin\Debug\net7.0\Exercício Crime.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\bin\Debug\net7.0\Exercício Crime.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\bin\Debug\net7.0\Exercício Crime.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\refint\Exercício Crime.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\Exercício Crime.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Crime\obj\Debug\net7.0\ref\Exercício Crime.dll

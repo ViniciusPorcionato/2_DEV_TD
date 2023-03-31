@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\bin\Debug\net7.0\Exercício Consoante e Vogal.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\bin\Debug\net7.0\Exercício Consoante e Vogal.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\bin\Debug\net7.0\Exercício Consoante e Vogal.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\bin\Debug\net7.0\Exercício Consoante e Vogal.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\bin\Debug\net7.0\Exercício Consoante e Vogal.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\refint\Exercício Consoante e Vogal.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\Exercício Consoante e Vogal.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício Consoante e Vogal\obj\Debug\net7.0\ref\Exercício Consoante e Vogal.dll

@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\bin\Debug\net7.0\Exercício 3 números.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\bin\Debug\net7.0\Exercício 3 números.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\bin\Debug\net7.0\Exercício 3 números.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\bin\Debug\net7.0\Exercício 3 números.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\bin\Debug\net7.0\Exercício 3 números.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\refint\Exercício 3 números.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\Exercício 3 números.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício 3 números\obj\Debug\net7.0\ref\Exercício 3 números.dll

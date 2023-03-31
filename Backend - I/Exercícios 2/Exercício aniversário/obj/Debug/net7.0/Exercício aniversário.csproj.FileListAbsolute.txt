@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\bin\Debug\net7.0\Exercício aniversário.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\bin\Debug\net7.0\Exercício aniversário.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\bin\Debug\net7.0\Exercício aniversário.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\bin\Debug\net7.0\Exercício aniversário.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\bin\Debug\net7.0\Exercício aniversário.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\refint\Exercício aniversário.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\Exercício aniversário.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 2\Exercício aniversário\obj\Debug\net7.0\ref\Exercício aniversário.dll
