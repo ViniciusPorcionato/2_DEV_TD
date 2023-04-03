@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\bin\Debug\net7.0\Calculadora Switch Case.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\bin\Debug\net7.0\Calculadora Switch Case.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\bin\Debug\net7.0\Calculadora Switch Case.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\bin\Debug\net7.0\Calculadora Switch Case.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\bin\Debug\net7.0\Calculadora Switch Case.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\refint\Calculadora Switch Case.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\Calculadora Switch Case.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Calculadora Switch Case\obj\Debug\net7.0\ref\Calculadora Switch Case.dll
