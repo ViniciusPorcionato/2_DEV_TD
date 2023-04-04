@@ -53,16 +53,25 @@ switch(bebidas)
 
 }
 
-Console.WriteLine($"Gostaria de adicionar gelo ? sim/não");
-string gelo = Console.ReadLine().ToUpper();
+Console.WriteLine($"Gostaria de adicionar gelo ? s/n");
+char gelo = char.Parse(Console.ReadLine());
 
 
 
-
-Console.WriteLine($"Informe a Quantidade :");
+Console.WriteLine($"Informe a Quantidade de copos :");
 int quantidade = int.Parse(Console.ReadLine());
 
 
-Console.WriteLine(@$"Pedido : {nomeBebida} 
-Com gelo : {gelo} 
-Quantidade : {quantidade}");
+Console.WriteLine(@$"
+
+-----------------------------
+|                                   
+|Sua bebida é : {nomeBebida}   
+|Com gelo : {gelo}             
+|Quantidade de Copos  : {quantidade}     
+|                                  
+-----------------------------
+");
+
+
+

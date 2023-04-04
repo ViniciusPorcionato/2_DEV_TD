@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\bin\Debug\net7.0\Estrutura de Repetição.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\bin\Debug\net7.0\Estrutura de Repetição.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\bin\Debug\net7.0\Estrutura de Repetição.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\bin\Debug\net7.0\Estrutura de Repetição.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\bin\Debug\net7.0\Estrutura de Repetição.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\refint\Estrutura de Repetição.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\Estrutura de Repetição.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura de Repetição\obj\Debug\net7.0\ref\Estrutura de Repetição.dll

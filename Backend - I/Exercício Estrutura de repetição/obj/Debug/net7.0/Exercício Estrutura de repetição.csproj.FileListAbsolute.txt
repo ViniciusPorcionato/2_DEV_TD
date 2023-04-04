@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\bin\Debug\net7.0\Exercício Estrutura de repetição.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\bin\Debug\net7.0\Exercício Estrutura de repetição.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\bin\Debug\net7.0\Exercício Estrutura de repetição.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\bin\Debug\net7.0\Exercício Estrutura de repetição.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\bin\Debug\net7.0\Exercício Estrutura de repetição.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\refint\Exercício Estrutura de repetição.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\Exercício Estrutura de repetição.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício Estrutura de repetição\obj\Debug\net7.0\ref\Exercício Estrutura de repetição.dll
