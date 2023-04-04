@@ -35,19 +35,19 @@ string nomeBebida = "";
 switch(bebidas)
 {
     case 1 : 
-    nomeBebida = "Coca - Cola"
+    nomeBebida = "Coca - Cola";
     break;
     case 2 : 
-    Console.WriteLine($"Pepsi");
+    nomeBebida = "Pepsi";
     break;
     case 3 : 
-    Console.WriteLine($"Fanta");
+    nomeBebida = "Fanta";
     break;
     case 4 : 
-    Console.WriteLine($"Monster");
+    nomeBebida = "Monster";
     break;
     case 5 : 
-    Console.WriteLine($"Guaraná");
+    nomeBebida = "Guaraná";
     break;
 
 
@@ -63,6 +63,6 @@ Console.WriteLine($"Informe a Quantidade :");
 int quantidade = int.Parse(Console.ReadLine());
 
 
-Console.WriteLine(@$"Pedido : {bebidas} 
+Console.WriteLine(@$"Pedido : {nomeBebida} 
 Com gelo : {gelo} 
 Quantidade : {quantidade}");
