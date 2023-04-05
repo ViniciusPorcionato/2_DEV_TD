@@ -92,9 +92,3 @@ Salário : {salario}
 Estado Civil: {estadoCivil}
 Parabéns Cadastro concluído !!!
 ");
-
-
-
-
-
-
