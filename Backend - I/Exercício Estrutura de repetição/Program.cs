@@ -33,6 +33,4 @@ else
     
 }
     
-
-
 } while (idadeCerta == false);
