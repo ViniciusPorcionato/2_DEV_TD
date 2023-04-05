@@ -23,7 +23,7 @@ int idade =int.Parse(Console.ReadLine());
 
 if (idade == 31)
 {
-    Console.WriteLine($"Acertou !!S");
+    Console.WriteLine($"Acertou !!");
     idadeCerta = true;
     
 }
