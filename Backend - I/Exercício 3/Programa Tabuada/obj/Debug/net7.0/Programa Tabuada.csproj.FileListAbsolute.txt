@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\bin\Debug\net7.0\Programa Tabuada.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\bin\Debug\net7.0\Programa Tabuada.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\bin\Debug\net7.0\Programa Tabuada.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\bin\Debug\net7.0\Programa Tabuada.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\bin\Debug\net7.0\Programa Tabuada.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\refint\Programa Tabuada.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\Programa Tabuada.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Tabuada\obj\Debug\net7.0\ref\Programa Tabuada.dll

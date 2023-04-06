@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\bin\Debug\net7.0\Programa Pesquisa.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\bin\Debug\net7.0\Programa Pesquisa.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\bin\Debug\net7.0\Programa Pesquisa.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\bin\Debug\net7.0\Programa Pesquisa.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\bin\Debug\net7.0\Programa Pesquisa.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\refint\Programa Pesquisa.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\Programa Pesquisa.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Pesquisa\obj\Debug\net7.0\ref\Programa Pesquisa.dll

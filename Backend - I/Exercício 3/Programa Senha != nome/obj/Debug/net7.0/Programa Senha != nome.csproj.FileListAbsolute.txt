@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\bin\Debug\net7.0\Programa Senha != nome.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\bin\Debug\net7.0\Programa Senha != nome.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\bin\Debug\net7.0\Programa Senha != nome.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\bin\Debug\net7.0\Programa Senha != nome.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\bin\Debug\net7.0\Programa Senha != nome.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\refint\Programa Senha != nome.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\Programa Senha != nome.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Senha != nome\obj\Debug\net7.0\ref\Programa Senha != nome.dll

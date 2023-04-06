@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\bin\Debug\net7.0\Programa nota.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\bin\Debug\net7.0\Programa nota.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\bin\Debug\net7.0\Programa nota.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\bin\Debug\net7.0\Programa nota.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\bin\Debug\net7.0\Programa nota.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\refint\Programa nota.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\Programa nota.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa nota\obj\Debug\net7.0\ref\Programa nota.dll
