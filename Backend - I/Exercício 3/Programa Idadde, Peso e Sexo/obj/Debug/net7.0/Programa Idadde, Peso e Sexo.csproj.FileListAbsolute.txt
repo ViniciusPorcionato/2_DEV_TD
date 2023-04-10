@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\bin\Debug\net7.0\Programa Idadde, Peso e Sexo.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\bin\Debug\net7.0\Programa Idadde, Peso e Sexo.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\bin\Debug\net7.0\Programa Idadde, Peso e Sexo.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\bin\Debug\net7.0\Programa Idadde, Peso e Sexo.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\bin\Debug\net7.0\Programa Idadde, Peso e Sexo.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\refint\Programa Idadde, Peso e Sexo.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\Programa Idadde, Peso e Sexo.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercício 3\Programa Idadde, Peso e Sexo\obj\Debug\net7.0\ref\Programa Idadde, Peso e Sexo.dll
