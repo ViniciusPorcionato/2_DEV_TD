@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\bin\Debug\net7.0\Estrutura Array.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\bin\Debug\net7.0\Estrutura Array.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\bin\Debug\net7.0\Estrutura Array.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\bin\Debug\net7.0\Estrutura Array.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\bin\Debug\net7.0\Estrutura Array.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\refint\Estrutura Array.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\Estrutura Array.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Estrutura Array\obj\Debug\net7.0\ref\Estrutura Array.dll

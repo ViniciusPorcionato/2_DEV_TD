@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\bin\Debug\net7.0\Exercício números ímpares e par.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\bin\Debug\net7.0\Exercício números ímpares e par.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\bin\Debug\net7.0\Exercício números ímpares e par.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\bin\Debug\net7.0\Exercício números ímpares e par.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\bin\Debug\net7.0\Exercício números ímpares e par.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\refint\Exercício números ímpares e par.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\Exercício números ímpares e par.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício números ímpares e par\obj\Debug\net7.0\ref\Exercício números ímpares e par.dll

@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\bin\Debug\net7.0\Exercício nome e idade.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\bin\Debug\net7.0\Exercício nome e idade.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\bin\Debug\net7.0\Exercício nome e idade.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\bin\Debug\net7.0\Exercício nome e idade.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\bin\Debug\net7.0\Exercício nome e idade.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\refint\Exercício nome e idade.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\Exercício nome e idade.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício nome e idade\obj\Debug\net7.0\ref\Exercício nome e idade.dll
