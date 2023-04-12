@@ -2,6 +2,9 @@
 
 int[] num = new int[6];
 
+int numPares = 0;
+int numImpar = 0;
+
 for (int i = 0; i < 6; i++)
 {
     Console.WriteLine($"Informe o {i + 1}º número : ");
@@ -9,18 +12,26 @@ for (int i = 0; i < 6; i++)
 
     if(num[i] % 2 == 0)
     {
-       Console.WriteLine($"Par");
-        
+       Console.WriteLine($"O número é Par");
+        numPares +=1;
+        Console.WriteLine($"");
+
     }
     else
     {
-        Console.WriteLine($"Ímpar");
-        
+        Console.WriteLine($"O número é Ímpar");
+        numImpar +=1;
+        Console.WriteLine($"");
+
     }
+
     
 }
 
-foreach (var item in num)
-{
+
+Console.WriteLine(@$"
+Quantidade de números Par: {numPares}
+Quantidade de números Ímpares: {numImpar}
+
+");
     
-}
