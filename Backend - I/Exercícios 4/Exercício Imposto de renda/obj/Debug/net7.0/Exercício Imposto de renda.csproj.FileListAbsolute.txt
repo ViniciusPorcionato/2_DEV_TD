@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\bin\Debug\net7.0\Exercício Imposto de renda.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\bin\Debug\net7.0\Exercício Imposto de renda.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\bin\Debug\net7.0\Exercício Imposto de renda.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\bin\Debug\net7.0\Exercício Imposto de renda.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\bin\Debug\net7.0\Exercício Imposto de renda.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\refint\Exercício Imposto de renda.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\Exercício Imposto de renda.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícios 4\Exercício Imposto de renda\obj\Debug\net7.0\ref\Exercício Imposto de renda.dll

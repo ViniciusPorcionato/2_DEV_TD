@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\bin\Debug\net7.0\Exercício Posto.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\bin\Debug\net7.0\Exercício Posto.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\bin\Debug\net7.0\Exercício Posto.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\bin\Debug\net7.0\Exercício Posto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\bin\Debug\net7.0\Exercício Posto.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\refint\Exercício Posto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\Exercício Posto.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Posto\obj\Debug\net7.0\ref\Exercício Posto.dll
