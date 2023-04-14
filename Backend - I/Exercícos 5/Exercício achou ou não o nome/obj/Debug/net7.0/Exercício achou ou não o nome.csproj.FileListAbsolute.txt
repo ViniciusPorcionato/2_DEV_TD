@@ -1,0 +1,15 @@
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\bin\Debug\net7.0\Exercício achou ou não o nome.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\bin\Debug\net7.0\Exercício achou ou não o nome.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\bin\Debug\net7.0\Exercício achou ou não o nome.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\bin\Debug\net7.0\Exercício achou ou não o nome.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\bin\Debug\net7.0\Exercício achou ou não o nome.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\refint\Exercício achou ou não o nome.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\Exercício achou ou não o nome.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício achou ou não o nome\obj\Debug\net7.0\ref\Exercício achou ou não o nome.dll
