@@ -1,0 +1,15 @@
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\refint\Exercício Produto.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\ref\Exercício Produto.dll

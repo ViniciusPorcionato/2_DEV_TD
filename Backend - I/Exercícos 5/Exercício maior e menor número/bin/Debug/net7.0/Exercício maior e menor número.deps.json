@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercício maior e menor número/1.0.0": {
+        "runtime": {
+          "Exercício maior e menor número.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício maior e menor número/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\bin\Debug\net7.0\Exercício Tabuada.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\bin\Debug\net7.0\Exercício Tabuada.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\bin\Debug\net7.0\Exercício Tabuada.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\bin\Debug\net7.0\Exercício Tabuada.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\bin\Debug\net7.0\Exercício Tabuada.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\refint\Exercício Tabuada.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\Exercício Tabuada.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Tabuada\obj\Debug\net7.0\ref\Exercício Tabuada.dll

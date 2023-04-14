@@ -1,0 +1,15 @@
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\refint\Exercício maior e menor número.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\ref\Exercício maior e menor número.dll
