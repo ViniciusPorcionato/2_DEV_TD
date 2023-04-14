@@ -39,7 +39,7 @@ int litros = int.Parse(Console.ReadLine());
 switch (combustivel)
 {
     case 1:
-    if (litros < 20)
+    if (litros <= 20)
     {
         precoAlcool -= precoAlcool * 0.03f;
     }
@@ -51,7 +51,7 @@ switch (combustivel)
 
     case 2:
 
-    if (litros < 20)
+    if (litros <= 20)
     {
         precoGasolina -= precoGasolina * 0.04f;
     }

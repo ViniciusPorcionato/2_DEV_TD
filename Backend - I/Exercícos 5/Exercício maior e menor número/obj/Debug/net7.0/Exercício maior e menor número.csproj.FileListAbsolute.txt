@@ -13,3 +13,18 @@ C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exer
 C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.pdb
 C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.genruntimeconfig.cache
 C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\ref\Exercício maior e menor número.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\bin\Debug\net7.0\Exercício maior e menor número.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\refint\Exercício maior e menor número.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\Exercício maior e menor número.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício maior e menor número\obj\Debug\net7.0\ref\Exercício maior e menor número.dll
