@@ -13,3 +13,18 @@ C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exer
 C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.pdb
 C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.genruntimeconfig.cache
 C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\ref\Exercício Produto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\bin\Debug\net7.0\Exercício Produto.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\refint\Exercício Produto.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\Exercício Produto.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Produto\obj\Debug\net7.0\ref\Exercício Produto.dll

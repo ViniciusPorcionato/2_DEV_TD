@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\bin\Debug\net7.0\Exercício Ordem Inversa.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\bin\Debug\net7.0\Exercício Ordem Inversa.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\bin\Debug\net7.0\Exercício Ordem Inversa.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\bin\Debug\net7.0\Exercício Ordem Inversa.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\bin\Debug\net7.0\Exercício Ordem Inversa.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\refint\Exercício Ordem Inversa.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\Exercício Ordem Inversa.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Exercícos 5\Exercício Ordem Inversa\obj\Debug\net7.0\ref\Exercício Ordem Inversa.dll

@@ -17,17 +17,13 @@ Console.Write($"Informe o nome que você deseja procurar: ");
 string nomesProcurado = Console.ReadLine().ToLower();
 
 
-for (int i = 0; i < 10; i++)
+    if(nomes.Contains(nomesProcurado))
 {
-    if(nomes[i].ToLower() == nomesProcurado.ToLower())
-{
-    Console.WriteLine($"Nome encontrado na posição {i + 1}º !");
-    return;
-    
-}
+        Console.WriteLine($"Nome encontrado !");}
 else
-{
-    Console.WriteLine($"Nome não encontrado !");
+{    
+    Console.WriteLine($"Nome não encontrado !");}
     
-}
-}
+
+    
+
