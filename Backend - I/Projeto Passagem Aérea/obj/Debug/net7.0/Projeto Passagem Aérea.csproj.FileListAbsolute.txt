@@ -13,3 +13,18 @@ C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\De
 C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.pdb
 C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.genruntimeconfig.cache
 C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\ref\Projeto Passagem Aérea.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\refint\Projeto Passagem Aérea.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\bin\Debug\net7.0\Projeto Passagem Aérea.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\bin\Debug\net7.0\Projeto Passagem Aérea.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\bin\Debug\net7.0\Projeto Passagem Aérea.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\bin\Debug\net7.0\Projeto Passagem Aérea.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\bin\Debug\net7.0\Projeto Passagem Aérea.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\Projeto Passagem Aérea.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Projeto Passagem Aérea\obj\Debug\net7.0\ref\Projeto Passagem Aérea.dll

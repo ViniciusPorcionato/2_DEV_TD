@@ -28,6 +28,9 @@ static void Login(){
 
 string nomeUsuario = "";
 
+
+Login:
+
 Console.ForegroundColor = ConsoleColor.DarkCyan;
 Console.WriteLine(@$"
 
@@ -45,14 +48,13 @@ Console.ReadLine();
 
 
 
-
  Console.Write($"Informe o nome de usuário :");
-nomeUsuario = Console.ReadLine();
+nomeUsuario = Console.ReadLine()!;
         
 senha:
 
 Console.Write($"Informe a Senha :");
-int senhaLogin = int.Parse( Console.ReadLine());
+int senhaLogin = int.Parse( Console.ReadLine()!);
         
 
 if (senha == senhaLogin)
@@ -71,6 +73,7 @@ else
 // CHAMAR FUNÇÃO*************************
 Login();
 
+Menu:
 Console.ForegroundColor = ConsoleColor.DarkGreen;
 Console.WriteLine(@$"
 
@@ -88,3 +91,46 @@ _____________________________
 
 ");
 Console.ResetColor();
+
+Console.Write($"Insira a Opção Desejada:");
+int opcoesMenu = int.Parse(Console.ReadLine()!);
+
+string[] NomePassageiro = new string[5];
+string[] OrigemPassageiro = new string[5];
+string[] DestinoPassageiro = new string[5];
+string[] DataVoo = new string[5];
+
+switch (opcoesMenu)
+{
+     case 1:
+     for (int i = 0; i < 6; i++)
+     {
+          Console.WriteLine($"Informe o Nome do {i + 1}º Passageiro :");
+          NomePassageiro[i] = Console.ReadLine()!.ToLower();
+          Console.WriteLine($"Informe a Origem do {i + 1}º Passageiro :");
+          OrigemPassageiro[i] = Console.ReadLine()!.ToLower();
+          Console.WriteLine($"Informe o Destino do {i + 1}º Passageiro :");
+          DestinoPassageiro[i] = Console.ReadLine()!.ToLower();
+          Console.WriteLine($"Informe a Data do Voo do {i + 1}º Passageiro :");
+          DataVoo[i] = Console.ReadLine()!.ToLower();
+          
+          
+     }
+
+          break;
+
+          case 2:
+          
+          break;
+
+          // case 0:
+
+          // Console.WriteLine($"Ir para tela de login !");
+          // goto Login;
+
+
+     default:
+     Console.WriteLine($"Opção Inválida ! Selecione outra Opção:");
+     goto Menu;
+          
+}
