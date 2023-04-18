@@ -18,3 +18,15 @@ static void BomDia(){
 
     
 // }
+
+
+// Estrutura de uma função
+// Tipo TipoDado nomeFuncao(Parâmetros ou argumentos)
+{
+    //Corpo Função
+}
+
+static bool Login(string senha)
+{
+    
+}

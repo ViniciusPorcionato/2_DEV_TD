@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\porci\\.nuget\\packages\\": {}
+    "C:\\Users\\47423489824\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Passagem Aérea\\Projeto Passagem Aérea.csproj",
+      "projectUniqueName": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Passagem Aérea\\Projeto Passagem Aérea.csproj",
       "projectName": "Projeto Passagem Aérea",
-      "projectPath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Passagem Aérea\\Projeto Passagem Aérea.csproj",
-      "packagesPath": "C:\\Users\\porci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Passagem Aérea\\obj\\",
+      "projectPath": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Passagem Aérea\\Projeto Passagem Aérea.csproj",
+      "packagesPath": "C:\\Users\\47423489824\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Passagem Aérea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\porci\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\47423489824\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

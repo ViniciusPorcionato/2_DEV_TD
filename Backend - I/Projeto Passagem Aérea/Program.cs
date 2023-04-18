@@ -20,19 +20,19 @@
 
 // Cadastrar passagem = nome do passageiro, origem, destino e data de voo de 5 passageiros
 
-
+// const senha
 const int senha = 123456;
 
 // FUNÇÃO LOGIN PARA A PESSOA LOGAR USANDO USUÁRIO E SENHA
-static void Login(){
+static void Login()
+{
 
-string nomeUsuario = "";
+    string nomeUsuario = "";
 
 
-Login:
 
-Console.ForegroundColor = ConsoleColor.DarkCyan;
-Console.WriteLine(@$"
+    Console.ForegroundColor = ConsoleColor.DarkCyan;
+    Console.WriteLine(@$"
 
 _____________________________
 |                           |
@@ -43,35 +43,41 @@ _____________________________
 -----------------------------
 
 ");
-Console.ResetColor();
-Console.ReadLine();
+    Console.ResetColor();
+    Console.ReadLine();
 
 
 
- Console.Write($"Informe o nome de usuário :");
-nomeUsuario = Console.ReadLine()!;
-        
+    Console.Write($"Informe o nome de usuário :");
+    nomeUsuario = Console.ReadLine()!;
+
 senha:
 
-Console.Write($"Informe a Senha :");
-int senhaLogin = int.Parse( Console.ReadLine()!);
-        
+    Console.Write($"Informe a Senha :");
+    int senhaLogin = int.Parse(Console.ReadLine()!);
 
-if (senha == senhaLogin)
-{
-     Console.WriteLine($"Login com sucesso");
-            
-}
-else
-{
-    Console.WriteLine($"Senha Incorreta ! ");
-     goto senha;
-}
+
+    if (senha == senhaLogin)
+    {
+        Console.WriteLine($"Login com sucesso");
+
+    }
+    else
+    {
+        Console.WriteLine($"Senha Incorreta ! ");
+        goto senha;
+    }
 }
 
 
 // CHAMAR FUNÇÃO*************************
 Login();
+
+
+string[] NomePassageiro = new string[5];
+string[] OrigemPassageiro = new string[5];
+string[] DestinoPassageiro = new string[5];
+string[] DataVoo = new string[5];
 
 Menu:
 Console.ForegroundColor = ConsoleColor.DarkGreen;
@@ -93,44 +99,69 @@ _____________________________
 Console.ResetColor();
 
 Console.Write($"Insira a Opção Desejada:");
-int opcoesMenu = int.Parse(Console.ReadLine()!);
+string opcoesMenu = Console.ReadLine()!;
 
-string[] NomePassageiro = new string[5];
-string[] OrigemPassageiro = new string[5];
-string[] DestinoPassageiro = new string[5];
-string[] DataVoo = new string[5];
+
+string MaisOpcoes = " ";
 
 switch (opcoesMenu)
 {
-     case 1:
-     for (int i = 0; i < 6; i++)
-     {
-          Console.WriteLine($"Informe o Nome do {i + 1}º Passageiro :");
-          NomePassageiro[i] = Console.ReadLine()!.ToLower();
-          Console.WriteLine($"Informe a Origem do {i + 1}º Passageiro :");
-          OrigemPassageiro[i] = Console.ReadLine()!.ToLower();
-          Console.WriteLine($"Informe o Destino do {i + 1}º Passageiro :");
-          DestinoPassageiro[i] = Console.ReadLine()!.ToLower();
-          Console.WriteLine($"Informe a Data do Voo do {i + 1}º Passageiro :");
-          DataVoo[i] = Console.ReadLine()!.ToLower();
-          
-          
-     }
 
-          break;
+    case "1":
+    Cadastro:
+        for (int i = 0; i < 5; i++)
+        {
+            Console.WriteLine($"Informe o Nome do {i + 1}º Passageiro :");
+            NomePassageiro[i] = Console.ReadLine()!.ToLower();
+            Console.WriteLine($"Informe a Origem do {i + 1}º Passageiro :");
+            OrigemPassageiro[i] = Console.ReadLine()!.ToLower();
+            Console.WriteLine($"Informe o Destino do {i + 1}º Passageiro :");
+            DestinoPassageiro[i] = Console.ReadLine()!.ToLower();
+            Console.WriteLine($"Informe a Data do Voo do {i + 1}º Passageiro (dd/mm/aaaa) :");
+            DataVoo[i] = Console.ReadLine()!.ToLower();
+        }
 
-          case 2:
-          
-          break;
+    MaisPassagens:
+        Console.WriteLine($"Deseja Cadastrar mais Passagem ? S(Sim) ou N(Não)");
+        MaisOpcoes = Console.ReadLine()!.ToLower();
+        if (MaisOpcoes == "s")
+        {
+            goto Cadastro;
+        }
+        else if (MaisOpcoes == "n")
+        {
 
-          // case 0:
+            goto Menu;
+        }
+        else
+        {
+            Console.WriteLine($"Opção Inválida !");
+            goto MaisPassagens;
+        }
 
-          // Console.WriteLine($"Ir para tela de login !");
-          // goto Login;
 
 
-     default:
-     Console.WriteLine($"Opção Inválida ! Selecione outra Opção:");
-     goto Menu;
-          
+    case "2":
+        for (int i = 0; i < 5; i++)
+
+        {
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine(@$"
+               Nome do {i + 1}º Passageiro: {NomePassageiro[i]}
+               Origem do {i + 1}º Passageiro: {OrigemPassageiro[i]}
+               Destino do {i + 1}º Passageiro: {DestinoPassageiro[i]}
+               Data do Voo do {i + 1}º Passageiro: {DataVoo[i]}
+               ");
+            Console.ResetColor();
+        }
+        break;
+
+    case "0":
+     return;
+
+
+    default:
+        Console.WriteLine($"Opção Inválida ! Selecione outra Opção:");
+        goto Menu;
+
 }
