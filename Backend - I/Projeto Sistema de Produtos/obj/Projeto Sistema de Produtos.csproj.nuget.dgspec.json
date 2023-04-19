@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj": {}
+    "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj": {
+    "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj",
+        "projectUniqueName": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj",
         "projectName": "Projeto Sistema de Produtos",
-        "projectPath": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj",
-        "packagesPath": "C:\\Users\\47423489824\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\obj\\",
+        "projectPath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\Projeto Sistema de Produtos.csproj",
+        "packagesPath": "C:\\Users\\porci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\2_DEV_TD\\Backend - I\\Projeto Sistema de Produtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\47423489824\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\porci\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

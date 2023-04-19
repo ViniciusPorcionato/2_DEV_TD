@@ -100,7 +100,7 @@ switch (opcaoMenu)
 {
     case "1":
         CadastrarMaisProdutos:
-        for (int i = 0; i < 2; i++)
+        for (int i = 0; i < 10; i++)
         {
             Console.WriteLine($"Informe o Nome do {i + 1}º Produto :");
             NomeProduto[i] = Console.ReadLine();
@@ -157,7 +157,7 @@ switch (opcaoMenu)
 
     case "2":
 
-        for (int i = 0; i < 2; i++)
+        for (int i = 0; i < 10; i++)
         {
             Console.WriteLine(@$"
                 Nome do {i + 1}º Produto : {NomeProduto[i]}
