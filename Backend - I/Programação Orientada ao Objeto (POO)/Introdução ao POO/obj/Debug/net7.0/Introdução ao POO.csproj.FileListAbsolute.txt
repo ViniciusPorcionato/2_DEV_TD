@@ -1,0 +1,15 @@
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\bin\Debug\net7.0\Introdução ao POO.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\bin\Debug\net7.0\Introdução ao POO.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\bin\Debug\net7.0\Introdução ao POO.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\bin\Debug\net7.0\Introdução ao POO.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\bin\Debug\net7.0\Introdução ao POO.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\refint\Introdução ao POO.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\Introdução ao POO.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Introdução ao POO\obj\Debug\net7.0\ref\Introdução ao POO.dll
