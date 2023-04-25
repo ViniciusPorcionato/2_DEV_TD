@@ -13,7 +13,7 @@ namespace Exercício_Cadastro_de_Aluno_POO
         public string RG;
         public string NomeCurso;
 
-        public bool Bolsista = true;
+        public bool Bolsista;
         public float MediaFinal;
         public float ValorMensalidade;
 
@@ -22,15 +22,24 @@ namespace Exercício_Cadastro_de_Aluno_POO
             return MediaFinal;
         }
 
+
+        // IF ENCADEADO
         public float VerMensalidade(){
-            if (this.Bolsista = true && this.MediaFinal >= 8)
+            if (this.Bolsista == true && this.MediaFinal >= 8)
             {
                 this.ValorMensalidade -= (float)(this.ValorMensalidade * 0.50);
             }
-            else if(this.Bolsista = true && this.MediaFinal < 8 && this.MediaFinal > 6)
+            else if(this.Bolsista == true &&  this.MediaFinal > 6)
             {
                 this.ValorMensalidade -= (float)(this.ValorMensalidade * 0.30);
             }
+            else if(this.Bolsista == true &&  this.MediaFinal <= 5 )
+            {                
+            }
+            else if (this.Bolsista == false)
+            {                
+            }
+
             return ValorMensalidade;
         }
 
