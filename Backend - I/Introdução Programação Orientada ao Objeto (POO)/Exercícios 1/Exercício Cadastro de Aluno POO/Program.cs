@@ -74,25 +74,70 @@ else
 Console.WriteLine($"Informe a média final do Aluno :");
 cadastro.MediaFinal = float.Parse(Console.ReadLine()!);
 
+Console.ForegroundColor = ConsoleColor.DarkMagenta;
+Console.WriteLine(@$"
+*****Menu*****
+
+[1]- Mostrar Média
+[2]- Mostrar Mensalidade
+[3] - Ficha de Cadastro
+
+[0]- Sair
+");
+Console.ResetColor();
+opcao:
+Console.WriteLine($"Informe uma das opções :");
+string opcao = Console.ReadLine()!;
+
+Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+switch (opcao)
+{
+    case "1":
+    Console.WriteLine(@$"
+    Aluno : {cadastro.Nome}
+    Média Final : {cadastro.VerMedia()}
+    ");
+    goto opcao;
+
+    case "2":
+    Console.WriteLine(@$"
+    Aluno : {cadastro.Nome}
+    Mensalidade : {cadastro.VerMensalidade().ToString("C", new CultureInfo("pt-BR"))}
+    ");
+    goto opcao;
+
+    case "3":
+
+    Console.WriteLine(@$"
+    Ficha de Cadastro do aluno {cadastro.Nome} :
+    Nome : {cadastro.Nome}
+    Idade : {cadastro.Idade}
+    RG : {cadastro.RG}
+    Curso : {cadastro.NomeCurso}
+    Bolsista : {bolsaEstudantil}
+    ");
+    goto opcao;
+
+    case "0":
+    Console.WriteLine($"Sessão Encerrada !");
+    break;
+
+    default:
+    Console.WriteLine($"Opção Inválida !");
+        break;
+}
+    Console.ResetColor();
+
+
+
+
+
 
 
 // resultado final / ficha do aluno
 // imprimir
-Console.ForegroundColor = ConsoleColor.DarkYellow;
-Console.WriteLine(@$"
-___________________________________________________________
-Ficha de Cadastro do aluno {cadastro.Nome} :
-Nome : {cadastro.Nome}
-Idade : {cadastro.Idade}
-RG : {cadastro.RG}
-Curso : {cadastro.NomeCurso}
-Bolsista : {bolsaEstudantil}
-___________________________________________________________
-Média Final : {cadastro.VerMedia()}
-Mensalidade : {cadastro.VerMensalidade().ToString("C", new CultureInfo("pt-BR"))}
-___________________________________________________________
-");
-Console.ResetColor();
+
 
 
 
