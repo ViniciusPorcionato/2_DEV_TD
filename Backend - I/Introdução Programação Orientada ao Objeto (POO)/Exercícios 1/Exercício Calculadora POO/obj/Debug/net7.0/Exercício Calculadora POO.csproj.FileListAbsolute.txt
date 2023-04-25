@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\bin\Debug\net7.0\Exercício Calculadora POO.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\bin\Debug\net7.0\Exercício Calculadora POO.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\bin\Debug\net7.0\Exercício Calculadora POO.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\bin\Debug\net7.0\Exercício Calculadora POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\bin\Debug\net7.0\Exercício Calculadora POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\refint\Exercício Calculadora POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\Exercício Calculadora POO.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Calculadora POO\obj\Debug\net7.0\ref\Exercício Calculadora POO.dll

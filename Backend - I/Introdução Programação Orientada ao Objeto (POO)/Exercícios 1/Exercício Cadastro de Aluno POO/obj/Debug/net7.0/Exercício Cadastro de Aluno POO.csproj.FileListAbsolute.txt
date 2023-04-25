@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\bin\Debug\net7.0\Exercício Cadastro de Aluno POO.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\bin\Debug\net7.0\Exercício Cadastro de Aluno POO.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\bin\Debug\net7.0\Exercício Cadastro de Aluno POO.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\bin\Debug\net7.0\Exercício Cadastro de Aluno POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\bin\Debug\net7.0\Exercício Cadastro de Aluno POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\refint\Exercício Cadastro de Aluno POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\Exercício Cadastro de Aluno POO.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Cadastro de Aluno POO\obj\Debug\net7.0\ref\Exercício Cadastro de Aluno POO.dll

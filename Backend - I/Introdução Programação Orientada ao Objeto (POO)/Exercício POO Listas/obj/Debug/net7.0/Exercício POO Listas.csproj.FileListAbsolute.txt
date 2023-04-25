@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\bin\Debug\net7.0\Exercício POO Listas.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\bin\Debug\net7.0\Exercício POO Listas.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\bin\Debug\net7.0\Exercício POO Listas.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\bin\Debug\net7.0\Exercício POO Listas.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\bin\Debug\net7.0\Exercício POO Listas.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\refint\Exercício POO Listas.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\Exercício POO Listas.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Exercício POO Listas\obj\Debug\net7.0\ref\Exercício POO Listas.dll

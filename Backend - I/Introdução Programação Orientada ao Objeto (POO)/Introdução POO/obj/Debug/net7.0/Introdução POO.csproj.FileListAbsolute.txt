@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\bin\Debug\net7.0\Introdução POO.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\bin\Debug\net7.0\Introdução POO.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\bin\Debug\net7.0\Introdução POO.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\bin\Debug\net7.0\Introdução POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\bin\Debug\net7.0\Introdução POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\refint\Introdução POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\Introdução POO.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Introdução Programação Orientada ao Objeto (POO)\Introdução POO\obj\Debug\net7.0\ref\Introdução POO.dll
