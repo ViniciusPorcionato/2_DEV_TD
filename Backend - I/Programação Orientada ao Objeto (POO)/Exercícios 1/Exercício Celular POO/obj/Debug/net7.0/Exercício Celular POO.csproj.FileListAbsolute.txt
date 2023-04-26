@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\bin\Debug\net7.0\Exercício Celular POO.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\bin\Debug\net7.0\Exercício Celular POO.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\bin\Debug\net7.0\Exercício Celular POO.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\bin\Debug\net7.0\Exercício Celular POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\bin\Debug\net7.0\Exercício Celular POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\refint\Exercício Celular POO.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\Exercício Celular POO.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercícios 1\Exercício Celular POO\obj\Debug\net7.0\ref\Exercício Celular POO.dll
