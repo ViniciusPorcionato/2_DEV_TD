@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\bin\Debug\net7.0\Exercício Elevador.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\bin\Debug\net7.0\Exercício Elevador.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\bin\Debug\net7.0\Exercício Elevador.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\bin\Debug\net7.0\Exercício Elevador.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\bin\Debug\net7.0\Exercício Elevador.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\refint\Exercício Elevador.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\Exercício Elevador.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Exercício 2\Exercício Elevador\obj\Debug\net7.0\ref\Exercício Elevador.dll
