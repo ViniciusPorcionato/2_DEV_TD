@@ -10,7 +10,7 @@
 
 using Exercício_Calculadora_POO;
 
-// Instanciar a classe
+// Instanciar a classe com objeto
 Calculadora calculo = new Calculadora();
 
 Console.ForegroundColor = ConsoleColor.DarkCyan;

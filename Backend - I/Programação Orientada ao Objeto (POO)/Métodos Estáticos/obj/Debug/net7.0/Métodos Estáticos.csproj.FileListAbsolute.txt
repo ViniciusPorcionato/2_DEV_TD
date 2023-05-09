@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\bin\Debug\net7.0\Métodos Estáticos.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\bin\Debug\net7.0\Métodos Estáticos.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\bin\Debug\net7.0\Métodos Estáticos.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\bin\Debug\net7.0\Métodos Estáticos.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\bin\Debug\net7.0\Métodos Estáticos.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\refint\Métodos Estáticos.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\Métodos Estáticos.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Métodos Estáticos\obj\Debug\net7.0\ref\Métodos Estáticos.dll

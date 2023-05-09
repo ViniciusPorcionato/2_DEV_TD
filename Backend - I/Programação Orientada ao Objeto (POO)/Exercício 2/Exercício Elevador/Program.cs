@@ -16,7 +16,5 @@ using Exercício_Elevador;
 
 Elevador elevador = new Elevador();
 
-
 elevador.Inicializar();
-elevador.Entrar();
-elevador.Sair();
+

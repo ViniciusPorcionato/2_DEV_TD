@@ -97,6 +97,28 @@ namespace Exercício_Elevador
 
         }
 
+        public void Subir(){
+            
+        }
+        public void Descer(){
+            Console.WriteLine($"== Descer Elevador ==");
+            Console.WriteLine($"Para qual deseja ir ?");
+            for (int i = AndarAtual; i >= 0; i--)
+            {
+                if (i < this.AndarAtual && i == 0)
+                {
+                    Console.WriteLine($"[{i}] Térreo");
+                }
+                else if(i < this.AndarAtual)
+                {
+                    Console.WriteLine($"[{i}] {i}º Andar");  
+                }            
+            }  
+
+            Console.WriteLine($"Digite a opção que deseja ir ?");
+            int Andar = int.Parse(Console.ReadLine()!); 
+        }
+
     }
 
 }
