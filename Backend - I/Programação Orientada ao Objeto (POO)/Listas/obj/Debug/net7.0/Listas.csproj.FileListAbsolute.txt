@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\bin\Debug\net7.0\Listas.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\bin\Debug\net7.0\Listas.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\bin\Debug\net7.0\Listas.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\bin\Debug\net7.0\Listas.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\bin\Debug\net7.0\Listas.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\refint\Listas.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\Listas.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Listas\obj\Debug\net7.0\ref\Listas.dll
