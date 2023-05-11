@@ -1,0 +1,20 @@
+Interface tem a idéia de um contrato !
+Interface são as regras para um contrato !
+As regras são métodos
+
+Uma interface define um contrato. Qualquer class um ou struct que implemente esse contrato deve fornecer uma implementação dos membros definidos na interface. Uma interface pode definir uma implementação padrão para membros. 
+
+Como se fosse uma classe abstrata
+
+Regras e boas práticas para construir interfaces em C#:
+As interfaces tem sua declaração com o termo interface ao invés de class. Ex: public interface ICarrinho{}
+Ela possui somente métodos
+Os métodos não possuem assinatura, somente tipo
+Ao utilizar uma interface em uma classe, TODOS os métodos declarados na interface precisam ser implantados nas classes que herdarem essa determinada interface
+
+
+Para criar uma interface é necessário colocar a letra I na frente
+
+Exemplo:
+
+Classe : Carrinho     Interface : ICarrinho
