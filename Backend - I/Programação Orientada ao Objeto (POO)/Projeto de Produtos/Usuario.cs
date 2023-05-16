@@ -13,8 +13,9 @@ namespace Projeto_de_Produtos
         public string? Senha { get; set; }
         public DateTime DataCadastro { get; set; } = DateTime.Now;
 
-        
-        public string Cadastrar(){
+
+        public void Cadastrar()
+        {
             Console.WriteLine($"Informe o Código do Usuário :");
             Codigo = int.Parse(Console.ReadLine()!);
             Console.WriteLine($"Informe o Nome de Usuário :");
@@ -24,30 +25,56 @@ namespace Projeto_de_Produtos
             Console.WriteLine($"Informe a Senha :");
             Senha = Console.ReadLine();
             Console.WriteLine($"Data do Cadastro : {DataCadastro}");
-            return "Cadastro com Sucesso !";  
+            Console.WriteLine(@$"
+            Conta Usuário :
+            Código User : {this.Codigo}
+            Nome : {this.Nome}
+            Email : {this.Email}
+            Senha : {this.Senha}
+            ");
+
         }
 
-        public string Deletar(){
+        public void Deletar()
+        {
             Console.WriteLine($"Deseja Deletar Sua Conta ? s(sim) / n(não)");
             char Opcao = char.Parse(Console.ReadLine()!);
-            
+
             if (Opcao == 's')
             {
+                Codigo = 0;
                 Nome = "";
                 Email = "";
                 Senha = "";
-                return "Conta Removida com Sucesso !";
+                Console.WriteLine($"Conta Removida com Sucesso !");
+                Console.WriteLine(@$"
+            Conta Usuário :
+            Código User : {this.Codigo}
+            Nome : {this.Nome}
+            Email : {this.Email}
+            Senha : {this.Senha}
+            ");
+
+
             }
             else
             {
-                return "Conta não foi removida !";
+                Console.WriteLine($"Conta não foi alterada !");
+                Console.WriteLine(@$"
+            Conta Usuário :
+            Código User : {this.Codigo}
+            Nome : {this.Nome}
+            Email : {this.Email}
+            Senha : {this.Senha}
+            ");
+
             }
         }
 
 
-        
-        
-        
-        
+
+
+
+
     }
 }

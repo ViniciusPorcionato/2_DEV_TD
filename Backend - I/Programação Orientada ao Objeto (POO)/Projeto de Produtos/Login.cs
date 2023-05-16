@@ -8,7 +8,7 @@ namespace Projeto_de_Produtos
     public class Login
     {
     
-    private bool Logado { get; set; } = true;
+    private bool Logado { get; set; }= true;
     
     
     public Login()

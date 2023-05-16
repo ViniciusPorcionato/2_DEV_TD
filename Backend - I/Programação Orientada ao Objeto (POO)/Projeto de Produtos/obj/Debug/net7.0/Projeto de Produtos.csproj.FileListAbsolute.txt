@@ -13,3 +13,18 @@ C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Obj
 C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.pdb
 C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.genruntimeconfig.cache
 C:\Users\47423489824\Desktop\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\ref\Projeto de Produtos.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\bin\Debug\net7.0\Projeto de Produtos.exe
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\bin\Debug\net7.0\Projeto de Produtos.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\bin\Debug\net7.0\Projeto de Produtos.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\bin\Debug\net7.0\Projeto de Produtos.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\bin\Debug\net7.0\Projeto de Produtos.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.csproj.AssemblyReference.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\refint\Projeto de Produtos.dll
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\Projeto de Produtos.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\2_DEV_TD\Backend - I\Programação Orientada ao Objeto (POO)\Projeto de Produtos\obj\Debug\net7.0\ref\Projeto de Produtos.dll
