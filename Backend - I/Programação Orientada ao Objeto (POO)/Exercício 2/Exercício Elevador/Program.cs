@@ -18,3 +18,35 @@ Elevador elevador = new Elevador();
 
 elevador.Inicializar();
 
+Opcao:
+Console.WriteLine($"Selecione uma das opções :");
+Console.WriteLine(@$"
+[1] Entrar
+[2] Sair
+[3] Subir
+[4] Descer
+");
+
+string opcao = (Console.ReadLine()!);
+
+
+switch (opcao)
+{
+    case "1":
+        elevador.Entrar();
+        goto Opcao;
+    case "2":
+        elevador.Sair();
+        goto Opcao;
+    case "3":
+        elevador.Subir();
+        goto Opcao;
+    case "4":
+        elevador.Descer();
+        goto Opcao;
+    default:
+        break;
+}
+
+
+

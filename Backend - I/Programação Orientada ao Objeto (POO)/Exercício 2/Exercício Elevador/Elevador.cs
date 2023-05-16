@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercício_Elevador
 {
@@ -88,7 +84,7 @@ namespace Exercício_Elevador
 
         public void Sair()
         {
-            Console.WriteLine($"Quantas Pessoas estão dentro do elevador ?");
+            Console.WriteLine($"Pessoas que estão dentro do elevador");
             Console.WriteLine($"{ this.PessoasElevador}");
             Console.WriteLine($"Saindo do elevador.....");
 
