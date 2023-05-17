@@ -1,6 +1,9 @@
 ﻿using Projeto_de_Produtos;
 
-Usuario a = new Usuario();
-
+Marca a = new Marca();
 a.Cadastrar();
-a.Deletar();
+a.Listar();
+
+Usuario b = new Usuario();
+b.Cadastrar();
+b.Deletar();
