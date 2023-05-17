@@ -35,7 +35,7 @@ namespace Projeto_de_Produtos
                foreach (var item in ListaDeMarcas)
             {
                 Console.WriteLine(@$"
-                == Produto Cadastrado ==
+                == Marca Cadastrado ==
                 Código : {item.Codigo}
                 Nome : {item.NomeMarca}
                 Data do Cadastro : {item.DataCadastro}
