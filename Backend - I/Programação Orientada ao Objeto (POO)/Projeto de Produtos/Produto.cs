@@ -18,8 +18,9 @@ namespace Projeto_de_Produtos
         
 
         public void Cadastrar(){
+        Console.ForegroundColor = ConsoleColor.DarkMagenta;
         Produto produtos = new Produto();
-        Console.WriteLine($"Informe o Código da Marca :");
+        Console.WriteLine($"Informe o Código do Produto :");
         produtos.Codigo = int.Parse(Console.ReadLine()!);
         Console.WriteLine($"Informe o Nome do Produto :");
         produtos.NomeProduto = Console.ReadLine();
@@ -29,6 +30,7 @@ namespace Projeto_de_Produtos
                 
         ListaDeProtudos.Add(produtos);
         Console.WriteLine($"Produto cadastrado com sucesso !");
+        Console.ResetColor();
         
         
         }
@@ -36,6 +38,7 @@ namespace Projeto_de_Produtos
         public void Listar(){
             foreach (var item in ListaDeProtudos)
             {
+                Console.ForegroundColor = ConsoleColor.DarkMagenta;
                 Console.WriteLine(@$"
                 == Produto Cadastrado ==
                 Código do Produto : {item.Codigo}
@@ -43,12 +46,20 @@ namespace Projeto_de_Produtos
                 Preço : {item.Preco:C}
                 Data do Cadastro : {item.DataCadastro}
                 ");
+                Console.ResetColor();
                 
             }
         }
 
-        public void Deletar(int _codigo){
-
+        public void Deletar(int codigo1){
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine($"Informe o Código do produto que deseja Remover :");
+            codigo1 = int.Parse(Console.ReadLine()!);
+            
+            
+            Produto produtoBuscado = ListaDeProtudos.Find(x => x.Codigo == codigo1)!;
+            ListaDeProtudos.Remove(produtoBuscado);
+            Console.ResetColor();
         }
 
                 

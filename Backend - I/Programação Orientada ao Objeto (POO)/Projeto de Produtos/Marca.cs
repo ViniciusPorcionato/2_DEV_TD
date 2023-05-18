@@ -13,6 +13,7 @@ namespace Projeto_de_Produtos
 
         public void Cadastrar()
         {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Marca marcas = new Marca();
 
             Console.WriteLine($"Informe o Código da Marca :");
@@ -23,13 +24,15 @@ namespace Projeto_de_Produtos
 
             ListaDeMarcas.Add(marcas);
 
-            Console.WriteLine($"Produto Adicionado na Lista !");
+            Console.WriteLine($"Marca Adicionado na Lista !");
+            Console.ResetColor();
 
 
         }
 
         public void Listar()
         {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             if (ListaDeMarcas.Any())
             {
                foreach (var item in ListaDeMarcas)
@@ -48,10 +51,18 @@ namespace Projeto_de_Produtos
                 Console.WriteLine($"Lista vazia !");
                 
             }
+             Console.ResetColor();
         }
 
         public void Deletar(int codigo2){
-
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.WriteLine($"Informe o Código da marca que deseja Remover :");
+            codigo2 = int.Parse(Console.ReadLine()!);
+            
+            
+            Marca marcaBuscado = ListaDeMarcas.Find(x => x.Codigo == codigo2)!;
+            ListaDeMarcas.Remove(marcaBuscado);
+            Console.ResetColor();
         }
 
 

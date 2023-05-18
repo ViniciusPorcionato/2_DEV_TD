@@ -8,8 +8,11 @@
 // b.Cadastrar();
 // b.Deletar();
 
-Produto c = new Produto();
-c.Cadastrar();
-c.Cadastrar();
-c.Cadastrar();
-c.Listar();
+// Produto c = new Produto();
+// c.Cadastrar();
+// c.Cadastrar();
+// c.Cadastrar();
+// c.Listar();
+// c.Deletar();
+
+Login app = new Login();
