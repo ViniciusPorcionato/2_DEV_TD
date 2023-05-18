@@ -58,7 +58,7 @@ namespace Projeto_de_Produtos
         }
         public void Deslogar()
         {
-
+            Environment.Exit(1);
         }
 
         public void GerarMenu()
@@ -130,6 +130,7 @@ namespace Projeto_de_Produtos
 
                     case "0":
                         Console.WriteLine($"Programa Encerrado !");
+                        this.Deslogar();
                         break;
                     default:
                         Console.WriteLine($"Opção Inválida !");
