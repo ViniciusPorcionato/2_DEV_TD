@@ -14,6 +14,9 @@ namespace Console_MVC.Controller
             List<Produto> produtos = produto.Ler();
             produtoView.Listar(produtos);
         }
-        
+        public void CadastrarProdutos(){
+            Produto novoProduto = produtoView.Cadastrar();
+            produto.Inserir(novoProduto);
+        }
     }
 }

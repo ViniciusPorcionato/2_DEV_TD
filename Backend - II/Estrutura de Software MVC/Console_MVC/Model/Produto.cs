@@ -21,7 +21,6 @@ namespace Console_MVC.Model
         {
             // criar a lógica para gerar a pasta e o arquivo
 
-
             // obter o caminho da pasta
             string pasta = PATH.Split("/")[0];
 
