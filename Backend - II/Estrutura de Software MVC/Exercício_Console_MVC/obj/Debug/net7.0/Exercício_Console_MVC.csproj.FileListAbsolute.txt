@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\bin\Debug\net7.0\Exercício_Console_MVC.exe
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\bin\Debug\net7.0\Exercício_Console_MVC.deps.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\bin\Debug\net7.0\Exercício_Console_MVC.runtimeconfig.json
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\bin\Debug\net7.0\Exercício_Console_MVC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\bin\Debug\net7.0\Exercício_Console_MVC.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.csproj.AssemblyReference.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\refint\Exercício_Console_MVC.dll
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.pdb
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\Exercício_Console_MVC.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\2_DEV_TD\Backend - II\Estrutura de Software MVC\Exercício_Console_MVC\obj\Debug\net7.0\ref\Exercício_Console_MVC.dll
