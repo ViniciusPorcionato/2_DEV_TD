@@ -1,3 +1,18 @@
+//  Instalar os pacotes necessários para conectarmos o projeto ao banco de dados
+// dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 7.0.6
+// dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.1.23111.4
+// dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 8.0.0-preview.1.23111.4 
+// dotnet add package Microsoft.EntityFrameworkCore.Tools --version 8.0.0-preview.1.23111.4  
+
+// LINHA DE PROCESSOS
+// 1 - rodar dotnet new mvc
+// 2 - rodar dotnet run para verificar se tudo está funcionando
+// 3 - Codar os models
+// 4 - Baixar os pacotes (comandos no classroom)
+// 5 - Se o Entity Framework não estiver instalado, executar o comando "dotnet tool install --global dotnet-ef"
+// 6 - Executar o comando "dotnet ef migrations add InitialCreate"
+// 7 - Executar o comando "dotnet ef database update"
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

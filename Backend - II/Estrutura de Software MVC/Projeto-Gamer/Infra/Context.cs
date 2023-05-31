@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Projeto_Gamer.Models;
 
@@ -21,9 +17,10 @@ namespace Projeto_Gamer.Infra
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            // string de conexão para base de dados
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-2KJISQH; initial catalog = gamerTarde; Integrated Security = true; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-2KJISQH\\SENAI; initial catalog = gamerTarde; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
             }
         }
 
