@@ -5,6 +5,8 @@ namespace Projeto_Gamer.Infra
 {
     public class Context:DbContext
     {
+
+        // MANIPULAR BANCO DE DADOS
         public Context()
         {
             

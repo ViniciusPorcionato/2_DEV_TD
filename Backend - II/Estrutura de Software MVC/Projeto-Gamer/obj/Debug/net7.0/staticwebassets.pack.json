@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\Corinthians.png.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Corinthians.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\Fluminense.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Fluminense.png"
+    },
+    {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

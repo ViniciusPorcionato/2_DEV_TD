@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SoCKJvRibFcdyMl2V9peqVkjEjR5CIe2hrolJWQh3Cw=",
+  "Hash": "WkxgjYvluO3RNj0hJIxIlr6dikJqsFi6r7T5jOtHQh0=",
   "Source": "Projeto-Gamer",
   "BasePath": "_content/Projeto-Gamer",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\Corinthians.png.jpg",
+      "SourceId": "Projeto-Gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer",
+      "RelativePath": "img/Equipes/Corinthians.png.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Corinthians.png.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\Fluminense.png",
+      "SourceId": "Projeto-Gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer",
+      "RelativePath": "img/Equipes/Fluminense.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Fluminense.png"
     },
     {
       "Identity": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\js\\site.js",
