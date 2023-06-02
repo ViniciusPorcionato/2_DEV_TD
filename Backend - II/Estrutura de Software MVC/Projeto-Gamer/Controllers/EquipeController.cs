@@ -4,6 +4,7 @@ using Projeto_Gamer.Models;
 
 namespace Projeto_Gamer.Controllers
 {
+    [Route("[controller]")]
     public class EquipeController : Controller
     {
         private readonly ILogger<EquipeController> _logger;
@@ -40,7 +41,7 @@ namespace Projeto_Gamer.Controllers
             {
                 var file = form.Files[0];
                 // variavel criando combinações de caminhos
-                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipe");
 
                 if (!Directory.Exists(folder))
                 {
@@ -60,7 +61,7 @@ namespace Projeto_Gamer.Controllers
             }
             else
             {
-                novaEquipe.Imagem = "padrao.png";
+                novaEquipe.Imagem = "default.png";
             }
             // fima da lógica de upload
 
@@ -69,7 +70,7 @@ namespace Projeto_Gamer.Controllers
 
             context.SaveChanges();
 
-            return LocalRedirect("~/Listar");
+            return LocalRedirect("~/Equipe/Listar");
 
         }
 
@@ -81,7 +82,7 @@ namespace Projeto_Gamer.Controllers
             context.Equipe.Remove(e);
             context.SaveChanges();
 
-            return LocalRedirect("~/Listar");
+            return LocalRedirect("~/Equipe/Listar");
         }
 
 
@@ -105,6 +106,7 @@ namespace Projeto_Gamer.Controllers
 
             Equipe novaEquipe = new Equipe();
             novaEquipe.Nome = e.Nome;
+            Equipe equipe = context.Equipe.First(x => x.IdEquipe == e.IdEquipe);
 
             // upload da imagem na equipe nova(atualizada)
             if (form.Files.Count > 0)
@@ -124,24 +126,19 @@ namespace Projeto_Gamer.Controllers
                     file.CopyTo(stream);
                 }
 
+
                 novaEquipe.Imagem = file.FileName;
 
+                equipe.Imagem = novaEquipe.Imagem;
             }
-            else
-            {
-                novaEquipe.Imagem = "padrao.png";
-            }
-
-            Equipe equipe = context.Equipe.First(x => x.IdEquipe == e.IdEquipe);
 
             equipe.Nome = novaEquipe.Nome;
 
-            equipe.Imagem = novaEquipe.Imagem;
 
             context.Equipe.Update(equipe);
             context.SaveChanges();
 
-            return LocalRedirect("~/Listar");
+            return LocalRedirect("~/Equipe/Listar");
 
         }
 

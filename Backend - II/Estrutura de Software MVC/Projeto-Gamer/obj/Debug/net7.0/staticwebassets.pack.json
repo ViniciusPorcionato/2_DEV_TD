@@ -13,12 +13,36 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\Corinthians.png.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipe\\Corinthians.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\Fluminense.png",
+      "PackagePath": "staticwebassets\\img\\Equipe\\Fluminense.png"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\default.png",
+      "PackagePath": "staticwebassets\\img\\Equipe\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\santos.png",
+      "PackagePath": "staticwebassets\\img\\Equipe\\santos.png"
+    },
+    {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\Corinthians.png.jpg",
       "PackagePath": "staticwebassets\\img\\Equipes\\Corinthians.png.jpg"
     },
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\Fluminense.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\Fluminense.png"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\default.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipes\\santos.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\santos.png"
     },
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\js\\site.js",
