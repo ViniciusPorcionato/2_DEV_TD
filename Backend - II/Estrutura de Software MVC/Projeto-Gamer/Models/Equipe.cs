@@ -10,9 +10,7 @@ namespace Projeto_Gamer.Models
         public string? Nome { get; set; }
         public string? Imagem { get; set; }
 
-        public ICollection<Jogador>? Jogador { get; set; }
-
-        public static void Cadastrar(Equipe equipe) { }
+        public ICollection<Jogador> Jogador { get; set; }
 
     }
 }

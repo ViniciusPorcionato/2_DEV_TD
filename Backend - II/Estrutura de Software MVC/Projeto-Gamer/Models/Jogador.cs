@@ -15,7 +15,7 @@ namespace Projeto_Gamer.Models
         public string? Email { get; set; }
         public string? Senha { get; set; }
 
-        [ForeignKey("Equipes")]
+        [ForeignKey("Equipe")]
         public int IdEquipe { get; set; }
         public Equipe? Equipe { get; set; }
 
