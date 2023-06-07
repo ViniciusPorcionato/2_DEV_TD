@@ -19,6 +19,7 @@ namespace Projeto_Gamer.Controllers
         [Route("Listar")] // https://localhost/Equipe/Listar
         public IActionResult Index()
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             // A ViewBag é uma "bolsa" para guardar instâncias do objeto Equipe, como uma lista
             ViewBag.Equipe = context.Equipe.ToList();
             // Retorna a View de equipe
@@ -90,6 +91,7 @@ namespace Projeto_Gamer.Controllers
         // Pegar o objeto(time) e disponibilizar em outra tela
         public IActionResult Editar(int id)
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
 
             Equipe e = context.Equipe.First(e => e.IdEquipe == id);
 

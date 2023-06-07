@@ -1,0 +1,25 @@
+@model Jogador
+
+@{
+
+    ViewData["Title"] = "Login";
+
+}
+
+<h1>Tela de Login</h1>
+
+<h2>
+    @TempData.Peek("Message")
+</h2>
+
+<form method="post" action="@Url.Action("Logar")">
+
+    <label for="">Email</label>
+    <input placeholder="Informe seu Email:" type="emai.">
+
+    <label for="">Senha</label>
+    <input placeholder="Informe sua Senha:" type="password">
+
+    <button type="submit">Logar</button>
+
+</form>

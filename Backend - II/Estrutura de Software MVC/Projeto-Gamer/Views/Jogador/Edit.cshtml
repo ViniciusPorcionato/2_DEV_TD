@@ -2,7 +2,7 @@
 
 @{
 
-ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Edit";
 
 }
 
@@ -10,19 +10,19 @@ ViewData["Title"] = "Edit";
 
 <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
 
-<input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
+    <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
 
-<label for="">Nome Jogador</label>
-<input type="text" name="Nome" value="@ViewBag.Jogador.Nome">
+    <label for="">Nome Jogador</label>
+    <input type="text" name="Nome" value="@ViewBag.Jogador.Nome">
 
-<label for="">Email</label>
-<input type="email" name="Email" value="@ViewBag.Jogador.Email">
+    <label for="">Email</label>
+    <input type="email" name="Email" value="@ViewBag.Jogador.Email">
 
-<label for="">Senha</label>
-<Input type="password" name="Senha" value="@ViewBag.Jogador.Senha"></Input>
+    <label for="">Senha</label>
+    <Input type="password" name="Senha" value="@ViewBag.Jogador.Senha"></Input>
 
-<label for="">Equipe</label>
-<select name="IdEquipe" id="IdEquipe">  
+    <label for="">Equipe</label>
+    <select name="IdEquipe" id="IdEquipe">
         <option value="0">Selecione: </option>
         @foreach (Equipe item in ViewBag.Equipe)
         {
@@ -37,7 +37,7 @@ ViewData["Title"] = "Edit";
         }
     </select>
 
-<button type="submit">Atualizar</button>
+    <button type="submit">Atualizar</button>
 
 
 </form>

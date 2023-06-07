@@ -21,6 +21,9 @@ namespace Projeto_Gamer.Controllers
         [Route("Listar")]
         public IActionResult Index()
         {
+
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
+            
             ViewBag.Jogador = context.Jogador.ToList();
             ViewBag.Equipe = context.Equipe.ToList();
             return View();
@@ -56,12 +59,40 @@ namespace Projeto_Gamer.Controllers
         [Route("Editar/{id}")]
         public IActionResult Editar(int id){
 
-            ViewBag.Jogador = context.Jogador.ToList();
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
+
             ViewBag.Equipe = context.Equipe.ToList();
             Jogador j = context.Jogador.First(j => j.IdJogador == id);
             ViewBag.Jogador = j;
 
              return View("Edit");
+
+        }
+
+        [Route("Atualizar")]
+        public IActionResult Atualizar(IFormCollection form){
+
+            Jogador novoJogador = new Jogador();
+
+            novoJogador.IdJogador = int.Parse(form["IdJogador"].ToString());
+            novoJogador.Nome = form["Nome"].ToString();
+            novoJogador.Email = form["Email"].ToString();
+            novoJogador.Senha = form["Senha"].ToString();
+            novoJogador.IdEquipe = int.Parse(form["IdEquipe"].ToString());
+
+            Jogador jogadorBuscado = context.Jogador.First(j => j.IdJogador == novoJogador.IdJogador);
+
+            jogadorBuscado.Nome = novoJogador.Nome;
+            jogadorBuscado.Email = novoJogador.Email;
+            jogadorBuscado.Senha = novoJogador.Senha;
+            jogadorBuscado.IdEquipe = novoJogador.IdEquipe;
+
+            context.Jogador.Update(jogadorBuscado);
+            context.SaveChanges();
+
+            return LocalRedirect("~/Jogador/Listar");
+
+           
 
         }
 
