@@ -4,43 +4,52 @@
     ViewData["Title"] = "Equipe";
 }
 
-<h1>Tela de equipes</h1>
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+<h1>Tela de Equipes</h1>
 
-    <label for="">Nome</label>
-    <input type="text" name="Nome" required>
+@if (ViewBag.UserName == null)
+{
+    <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else
+{
 
-    <label for="">Imagem</label>
-    <input type="File" name="Imagem">
+    <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
 
-    <button type="submit">Cadastrar</button>
+        <label for="">Nome</label>
+        <input type="text" name="Nome" required>
 
-</form>
+        <label for="">Imagem</label>
+        <input type="File" name="Imagem">
 
-<table class="table table-striped table-responsive">
-    <thead>
-        <th>Id</th>
-        <th>Nome</th>
-        <th>Imagem</th>
-        <th>Ações</th>
-    </thead>
-    <tbody>
+        <button type="submit">Cadastrar</button>
 
-        @foreach (Equipe equipe in ViewBag.Equipe)
-        {
-            <tr>
-                <td>@equipe.IdEquipe</td>
-                <td>@equipe.Nome</td>
-                <td>
-                    <img src="/img/Equipes/@equipe.Imagem" alt="Imagem da @equipe.Nome" width="50px">
-                </td>
-                <td>
-                    <a asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@equipe.IdEquipe">Excluir</a>
-                </td>
-                <td>
-                    <a asp-area="" asp-controller="Equipe" asp-action="Editar" asp-route-id="@equipe.IdEquipe">Editar</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    </form>
+
+    <table class="table table-striped table-responsive">
+        <thead>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Imagem</th>
+            <th>Ações</th>
+        </thead>
+        <tbody>
+
+            @foreach (Equipe equipe in ViewBag.Equipe)
+            {
+                <tr>
+                    <td>@equipe.IdEquipe</td>
+                    <td>@equipe.Nome</td>
+                    <td>
+                        <img src="/img/Equipes/@equipe.Imagem" alt="Imagem da @equipe.Nome" width="50px">
+                    </td>
+                    <td>
+                        <a asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@equipe.IdEquipe">Excluir</a>
+                    </td>
+                    <td>
+                        <a asp-area="" asp-controller="Equipe" asp-action="Editar" asp-route-id="@equipe.IdEquipe">Editar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
