@@ -169,6 +169,10 @@
       "PackagePath": "staticwebassets\\assets\\green-play.svg"
     },
     {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\assets\\icon-pencil-edit.svg",
+      "PackagePath": "staticwebassets\\assets\\icon-pencil-edit.svg"
+    },
+    {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\assets\\instagram-yellow.svg",
       "PackagePath": "staticwebassets\\assets\\instagram-yellow.svg"
     },
@@ -239,6 +243,22 @@
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\assets\\vector-user.svg",
       "PackagePath": "staticwebassets\\assets\\vector-user.svg"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\equipes.css",
+      "PackagePath": "staticwebassets\\css\\equipes.css"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\header-footer.css",
+      "PackagePath": "staticwebassets\\css\\header-footer.css"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\site.css",

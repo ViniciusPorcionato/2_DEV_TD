@@ -6,20 +6,36 @@
 
 }
 
-<h1>Tela de Login</h1>
+<link rel="stylesheet" href="~/css/login.css">
 
-<h2>
-    @TempData.Peek("Message")
-</h2>
 
-<form method="post" action="@Url.Action("Logar")">
+<!-- FORMULÁRIO DE LOGIN -->
+<main class="fundo-login">
+    <div class="bkg-login">
+        <form class="frm-login" method="post" action="@Url.Action("Logar")">
+            <div class="login-title">
+                <hr class="login-line">
+                <h1>Login</h1>
+                <h2>
+                    @TempData.Peek("Message")
+                </h2>
+            </div>
+            <div class="frm-linha">
+                <div class="bkg-input">
+                    <img src="~/assets/vector-user.svg" alt="ícone de usuário">
+                    <input type="email" id="email" placeholder="Digite seu e-mail:" name="Email" required>
+                </div>
+            </div>
+            <div class="frm-linha">
+                <div class="bkg-input">
+                    <img src="~/assets/vector-key.svg" alt="ícone de chave">
+                    <input type="password" id="password" placeholder="Digite sua senha:" name="Senha" required>
+                </div>
+            </div>
 
-    <label for="">Email</label>
-    <input placeholder="Informe seu Email:" type="email" name="Email">
+            <button class="btn-logar" type="submit">Logar</button>
+        </form>
+    </div>
 
-    <label for="">Senha</label>
-    <input placeholder="Informe sua Senha:" type="password" name="Senha">
+</main>
 
-    <button type="submit">Logar</button>
-
-</form>
