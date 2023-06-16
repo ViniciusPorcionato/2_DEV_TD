@@ -28,9 +28,9 @@
                 </div>
 
                 <span class="social-box">
-                    <img src="~/assets/facebook.svg" alt="phone icon" title="Ícone Telefone">
-                    <img src="~/assets/linkedin.svg" alt="phone icon" title="Ícone Telefone">
-                    <img src="~/assets/instagram.svg" alt="phone icon" title="Ícone Telefone">
+                    <a href="https://pt-br.facebook.com/"><img src="~/assets/facebook.svg" alt="phone icon" title="Ícone Telefone"></a>
+                    <a href="https://www.linkedin.com/"><img src="~/assets/linkedin.svg" alt="phone icon" title="Ícone Telefone"></a>
+                    <a href="https://www.instagram.com/"><img src="~/assets/instagram.svg" alt="phone icon" title="Ícone Telefone"></a>
                 </span>
             </div>
         </div>
@@ -59,6 +59,8 @@
                             <a asp-controller="Login" asp-action="Logout">Logout</a>
 
                         }
+
+                        <a asp-controller="Login" asp-action="Index">Login</a>
 
                         <a href="~/#noticias">Notícias</a>
 
@@ -135,11 +137,15 @@
                 </div>
 
                 <ul class="menu-footer">
-                    <li class="menu-ftitem"><a href="#">Início</a></li>
-                    <li class="menu-ftitem"><a href="#">Jogadores</a></li>
-                    <li class="menu-ftitem"><a href="#">Notícias</a></li>
-                    <li class="menu-ftitem"><a href="#">Login</a></li>
-                    <li class="menu-ftitem" id="link-equipe"><a href="#">Equipes</a></li>
+                    @if (ViewBag.UserName != null)
+                    {
+                        <li class="menu-ftitem"><a asp-controller="Jogador" asp-action="Index">Jogadores</a></li>
+                        <li class="menu-ftitem" id="link-equipe"><a asp-controller="Equipe" asp-action="Index">Equipes</a></li>
+
+                    }
+                    <li class="menu-ftitem"><a asp-controller="Home" asp-action="Index">Início</a></li>
+                    <li class="menu-ftitem"><a href="~/#noticias">Notícias</a></li>
+                    <li class="menu-ftitem"><a  asp-controller="Login" asp-action="Index">Login</a></li>
                 </ul>
             </div>
 

@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\assets\\vector-user.svg"
     },
     {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\edit-equipes.css",
+      "PackagePath": "staticwebassets\\css\\edit-equipes.css"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\edit-jogadores.css",
+      "PackagePath": "staticwebassets\\css\\edit-jogadores.css"
+    },
+    {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\equipes.css",
       "PackagePath": "staticwebassets\\css\\equipes.css"
     },
@@ -255,6 +263,10 @@
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
     },
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\css\\login.css",
@@ -321,6 +333,14 @@
       "PackagePath": "staticwebassets\\images\\backgrund_notícias.png"
     },
     {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\images\\banner-2-valorant.png",
+      "PackagePath": "staticwebassets\\images\\banner-2-valorant.png"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\images\\banner-3-valorant.png",
+      "PackagePath": "staticwebassets\\images\\banner-3-valorant.png"
+    },
+    {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\images\\kiljoy.png",
       "PackagePath": "staticwebassets\\images\\kiljoy.png"
     },
@@ -371,6 +391,10 @@
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\default.png",
       "PackagePath": "staticwebassets\\img\\Equipe\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\download.png",
+      "PackagePath": "staticwebassets\\img\\Equipe\\download.png"
     },
     {
       "Id": "C:\\Users\\47423489824\\Desktop\\2_DEV_TD\\Backend - II\\Estrutura de Software MVC\\Projeto-Gamer\\wwwroot\\img\\Equipe\\santos.png",
